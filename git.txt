@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 dfdcvbcg
-=======
 внес изменения в ветке master
->>>>>>> testing
